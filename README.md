@@ -13,6 +13,8 @@
 ### 📫 Como me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL-AQUI)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nicolasribeiro.souza06@gmail.com)
-
+<a href="https://www.instagram.com/n.souzz__">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
 ---
 
