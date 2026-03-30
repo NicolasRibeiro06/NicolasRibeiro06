@@ -10,23 +10,6 @@
 
  Atualmente, foco meu aprendizado no curso o técnico de desenvolvimento de sistemas no **SENAI**.
 
----
-
-### 🛠️ No que estou trabalhando:
-- 🔭 Atualmente cursando **Desenvolvimento de Sistemas**.
-- 🌱 Aprendendo a base de **Lógica de Programação, Banco de Dados e Web Design**.
-- ⚡ Buscando meu primeiro desafio no mercado tech.
-
----
-
-### 💻 Minha Stack & Ferramentas:
-Aqui estão algumas tecnologias que tenho contato ou estou estudando no momento:
-
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | HTML5, CSS3, JavaScript |
-| **Banco de Dados** | MySQL, PostgreSQL |
-| **Ferramentas** | Git, GitHub, VS Code |
 
 ---
 
