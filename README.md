@@ -1,10 +1,12 @@
  Olá, eu sou o Nicolas Ribeiro Souza! 
  ---
+
+
+
  
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans&weight=700&size=30&duration=3000&pause=1000&color=EBF78A&width=435&lines=Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans&weight=700&size=30&duration=3000&pause=1000&color=FF0000&width=435&lines=bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
  ---
  
-![Texto Alternativo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ25yMXlnMWl0ZW1oanlzcXEzczlnZ3VrY3N0MmI1ZGF0M2NmZHBhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUNd9UqHFnLPWPdIY0/giphy.gif)
 ---
 ### 🚀 Estudante de Desenvolvimento de Sistemas @ SENAI
 
