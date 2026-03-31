@@ -6,7 +6,7 @@
 ---
  
 
-### 🚀 Estudante de Desenvolvimento de Sistemas @ SENAI
+### 🚀 Estudante de Desenvolvimento de Sistemas SENAI
 
  Atualmente, foco meu aprendizado no curso técnico de desenvolvimento de sistemas no **SENAI**.
 
